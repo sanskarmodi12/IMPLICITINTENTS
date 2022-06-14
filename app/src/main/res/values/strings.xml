@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ImplicitIntents</string>
+
+    <string name="mytext">I AM TRYING TO SEND THIS MESSGAGE ON WHATSAPP!!</string>
+</resources>
